@@ -1,0 +1,29 @@
+*{
+    display: border-box;
+}
+body{
+    background-color: silver;
+}
+p{
+    border-radius: 25px;
+    padding: 5px;
+    background-color: forestgreen;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: green;
+    text-shadow: 1px 1px black;
+}
+.msg-form{
+    text-align: center;
+}
+.form-container{
+    background-color: rgb(255,255,255, 0.75);
+    border: 3px solid rgb(0,0,0);
+    border-radius: 25px;
+    padding: 10px;
+}
+button{
+    border-radius: 25px;
+}
